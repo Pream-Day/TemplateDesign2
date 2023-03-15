@@ -1,0 +1,19 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255)!important; 
+    font-weight: 50px;
+}
+
+img, svg {
+    vertical-align: middle;
+    height:40em;
+}
+.row img{
+
+    height: 22em;
+    
+}
+
+.row p{
+
+    text-align: justify;
+}
